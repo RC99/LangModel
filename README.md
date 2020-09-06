@@ -15,7 +15,6 @@ CREATION:-
 10)Perplexeity is randomness count so the above statement is valid.
 
 DEPLOYMENT
-It is not done yet but one can deploy using Microsoft softwares or Deep Learning Studio or other softwares.
-
+It is not done yet but one can deploy using several softwares line DL studio, etc
 THANK YOU
 Happy Coding!!!
